@@ -1,4 +1,4 @@
-# Session 7 Practice — Key Findings
+# Assignment 8 — Key Findings
 
 This notebook explores three public datasets—online chess games, the Netflix catalog, and global monthly temperature anomalies—and exports charts to `output/charts/`. Below are five conclusion-first findings drawn from the analysis. Each claim is tied to a saved chart.
 
