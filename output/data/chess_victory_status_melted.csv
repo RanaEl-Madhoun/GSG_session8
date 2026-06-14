@@ -1,0 +1,13 @@
+victory_status,winner,count
+Draw,Black,0
+Mate,Black,2981
+Out of Time,Black,823
+Resign,Black,5303
+Draw,Draw,906
+Mate,Draw,0
+Out of Time,Draw,44
+Resign,Draw,0
+Draw,White,0
+Mate,White,3344
+Out of Time,White,813
+Resign,White,5844
